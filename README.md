@@ -25,11 +25,4 @@ calculator/
 ├── script.js
 └── README.md
 
-📬 Contact Me
-Have feedback or suggestions?
-
-📧 swethathatr2383@gmail.com
-
-🌐 https://trswethambari.github.io/SwePortfolioo/
-
-💼 www.linkedin.com/in/swethambaritr
+  
